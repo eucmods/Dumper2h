@@ -1,4 +1,4 @@
-# Dumper2h
+# Dumperil2cpp2h
 Ao abrir um arquivo de 200 ou 80 MB, é importante considerar a eficiência do processo de leitura
 
 int BUFFER_SIZE = 8192; //buffer em bytes
